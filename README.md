@@ -2,7 +2,7 @@
 <h3 align="center">I develop projects with backend and frontend</h3>
 <hr>
 <h3 align="center">⬇️I'm Interested⬇️</h6>
-<h4 align="center"><a href="https://dotnet.microsoft.com/en-us/download" target="_blank">.Net Core</a> Web API</h4>
+<h4 align="center"><a href="https://dotnet.microsoft.com/en-us/download" target="_blank">.Net Core</a></h4>
 <h4 align="center"><a href="https://angular.io/" target="_blank">Angular Framework</a></h4>
 <h4 align="center"><a href="https://ionicframework.com/" target="_blank">Ionic Framework</a></h4>
 
