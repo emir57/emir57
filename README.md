@@ -81,7 +81,7 @@
 </p>
 <p>
 
-![snake gif](https://github.com/emir57/emir57/blob/output/github-contribution-grid-snake.gif)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 </p>
 
