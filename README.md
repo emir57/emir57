@@ -8,12 +8,6 @@
 <h4 align="center"><a href="https://ionicframework.com/" target="_blank">Ionic Framework</a></h4>
 <h4 align="center"><a href="https://threejs.org/" target="_blank">Three.js</a></h4>
 
-- 📫 How to reach me ****
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emir-gurbuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emir-gurbuz" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
